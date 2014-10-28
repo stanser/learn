@@ -1,0 +1,4 @@
+learn
+=====
+
+for some scripts
